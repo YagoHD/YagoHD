@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Yago
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning java and mobile development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tyagorbt@gmail.com or +34 678927406
 
 <!---
