@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yago
 - 🌱 I’m currently learning java and mobile development
-- 📫 How to reach me tyagorbt@gmail.com or +34 678927406
+- 📫 How to reach me tyagorbt@gmail.com
 
 <!---
 YagoHD/YagoHD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
