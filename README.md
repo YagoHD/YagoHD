@@ -8,5 +8,5 @@
 
 ## Puedes encontrarme en: 
 - 📫 [Email] tyagorbt@gmail.com
-- 🖥️ [Linkeidn] www.linkedin.com/in/yagoramosbermudez
+- 🖥️ [Linkedin] www.linkedin.com/in/yagoramosbermudez
 - ☕[Adicto al Café]☕https://www.buymeacoffee.com/yagomain☕
